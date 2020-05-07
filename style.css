@@ -1,0 +1,235 @@
+body{
+    background-color: black;
+    color: white;
+    /* font-family: 'Raleway', sans-serif; */
+    /* font-family: 'EB Garamond', serif; */
+    /* font-family: 'Amiri', serif; */
+    /* font-family: 'Cinzel', serif; */
+    /* font-family: 'Caudex', serif; */
+    font-family: 'Cormorant SC', serif;
+
+}
+
+/* .title{
+    font: helvetica;
+    font-size: 50px;
+    width: 500px;
+    position: absolute;
+    top: 620px;
+    left: calc(50% - 250px);
+    text-align: center;
+} */
+
+/* .title{
+    font-size: 200px;
+    position: absolute;
+    top: -10px;
+    left: 25px;
+    animation-name: intro;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+} */
+
+.title{
+    font-size: 280px;
+    line-height: 200px;
+    position: absolute;
+    top: 20px;
+    left: 25px;
+    /* animation-name: intro; */
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+}
+
+/* .artists{
+    font-size: 15px;
+    width: 500px;
+    position: absolute;
+    top: 690px;
+    left: calc(50% - 250px);
+    text-align: center;
+} */
+
+.artists{
+    font-size: 80px;
+    position: absolute;
+    left: 800px;
+    top: 685px;
+    line-height: 50px;
+    /* animation-name: intro; */
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+}
+
+.art{
+    width: 550px;
+    position: absolute;
+    left: calc(50% - 275px);
+    top: 160px;
+}
+
+.border{
+    width: 300px;
+    height: 430px;
+    position: absolute;
+    top: 350px;
+    left: 25%;
+    background-color: white;
+    animation-name: intro2;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+}
+
+.gif{
+    width: 300px;
+    height: 400px;
+    position: absolute;
+    top: 370px;
+    left: 29%;
+    background-color: white;
+    animation-name: intro2;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
+}
+
+.audio{
+    width: 400px;
+    height: 30px;
+    position: absolute;
+    right: 100px;
+    top: 780px;
+}
+
+@keyframes intro{
+    0%{
+        color: white;
+    }
+    20%{
+        color: bisque;
+    }
+    40%{
+        color: darkcyan;
+    }
+    60%{
+        /* color: darkgreen; */
+        color: lavender;
+    }
+    80%{
+        color: palevioletred;
+    }
+    100%{
+        color: white;
+    }
+}
+
+@keyframes intro2{
+    0%{
+        background-color: white;
+    }
+    20%{
+        background-color: bisque;
+    }
+    40%{
+        background-color: darkcyan;
+    }
+    60%{
+        /* background-color: darkgreen; */
+        color: lavender;
+    }
+    80%{
+        background-color: palevioletred;
+    }
+    100%{
+        background-color: white;
+    }
+}
+
+.v1{
+    font-family: 'Raleway', sans-serif;
+    font-size: 40px;
+    line-height: 50px;
+    position: absolute;
+    top: 25%;
+    left: 68%;
+    display: none;
+}
+
+.v2{
+    font-family: 'Raleway', sans-serif;
+    font-size: 40px;
+    line-height: 50px;
+    position: absolute;
+    top: 25%;
+    left: 68%;
+    display: none;
+}
+
+.v3{
+    font-family: 'Raleway', sans-serif;
+    font-size: 40px;
+    line-height: 50px;
+    position: absolute;
+    top: 25%;
+    left: 68%;
+    display: none;
+}
+
+.v4{
+    font-family: 'Raleway', sans-serif;
+    font-size: 40px;
+    line-height: 50px;
+    position: absolute;
+    top: 25%;
+    left: 68%;
+    display: none;
+}
+
+.v5{
+    font-family: 'Raleway', sans-serif;
+    font-size: 40px;
+    line-height: 50px;
+    position: absolute;
+    top: 25%;
+    left: 68%;
+    display: none;
+}
+
+.v6{
+    font-family: 'Raleway', sans-serif;
+    font-size: 40px;
+    line-height: 50px;
+    position: absolute;
+    top: 25%;
+    left: 68%;
+    display: none;
+}
+
+.v7{
+    font-family: 'Raleway', sans-serif;
+    font-size: 40px;
+    line-height: 50px;
+    position: absolute;
+    top: 25%;
+    left: 68%;
+    display: none;
+}
+
+.v8{
+    font-family: 'Raleway', sans-serif;
+    font-size: 40px;
+    line-height: 50px;
+    position: absolute;
+    top: 25%;
+    left: 68%;
+    display: none;
+}
+
+.v9{
+    font-family: 'Raleway', sans-serif;
+    font-size: 40px;
+    line-height: 50px;
+    position: absolute;
+    top: 25%;
+    left: 68%;
+    display: none;
+}
